@@ -1,2 +1,3 @@
 # Ignore file 
 env/
+.ipynb_checkpoints
